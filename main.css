@@ -1,0 +1,21 @@
+img{
+    width: 300px;
+}
+h1, h2, p {
+    color: aqua;
+    background: fuchsia;
+}
+/*ul li{*/
+/*        color: cornflowerblue;*/
+/*        background: #154;*/
+/*    }*/
+
+a{
+    text-decoration: none; color: deeppink;
+}
+.eee{
+    background: cornflowerblue;
+}
+.www{
+    background: aqua;
+}
